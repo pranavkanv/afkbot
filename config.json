@@ -1,0 +1,9 @@
+{
+	"ip":"drawars.aternos.me",
+	"port": 41356,
+	"name": "afkbot2",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (Triggop) (Triggop)",
+	"login-cmd":"/login (Triggop)"
+}
